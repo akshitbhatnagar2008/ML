@@ -10,6 +10,7 @@ Hope I can contribute to the community!!!
 | Algorithm | Description | Link 
 | --- | --- | --- 
 | LDA/Multivariate Gaussian | Using MNIST Digits Dataset | [Handwritten Digit Recognition](https://github.com/akshitbhatnagar2008/ML/blob/master/Handwritten%20digit%20recognition1.ipynb)
+| Naive Bayes Classifier | Text Classification | [Text Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/MutinomialNB.pdf)
 
 ### Contributors
 | Name | email 
