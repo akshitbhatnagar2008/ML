@@ -3,14 +3,9 @@ Building ML algorithms
 
 With this I am trying to implement different Machine Learning Algorithms without using the available Machine Learning libraries in python. I will be using Python to build the code and will try to explain the algorithms in the simplest way.
 
-I will be adding algorithms as when I come up with those. You can find the list below:-
+I will be adding algorithms as and when I implement. You can find the list below:-
 
-
-Rendered table with varied cell width
-
-Formatting content within your table
-
-You can use formatting such as links, inline code blocks, and text styling within your table:
+Hope I can contribute to the community!!!
 
 | Algorithm | Description | Link 
 | --- | --- | --- 
@@ -20,3 +15,5 @@ You can use formatting such as links, inline code blocks, and text styling withi
 | Name | email 
 | --- | --- 
 | Akshit Bhatnagar | akshitbhatnagar2008@yahoo.com |
+
+Pull requests are most welcome
