@@ -23,6 +23,7 @@ I have also added some models which were implemented using sklearn library.
 I recently participated in San Diego BigData Hackathon where my team won 2nd Overall Best project award. Below is the link to the github repo and public dashboard that we created-
 
 Link to the repo - https://github.com/sandiegohearts/sandiegohearts.github.io
+
 Link to the site - https://sandiegohearts.github.io/
 
 ### Contributors
