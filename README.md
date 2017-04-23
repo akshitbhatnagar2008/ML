@@ -20,6 +20,11 @@ I have also added some models which were implemented using sklearn library.
 | Decision Tree Classifier | Classifying Wines | [Wine Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/Decision_Tree.ipynb)
 | Linear Discrimant Analysis | Leaf Classification | [Leaf Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/Leaf_classification.ipynb)
 
+I recently participated in San Diego BigData Hackathon where my team won 2nd Overall Best project award. Below is the link to the github repo and public dashboard that we created-
+
+Link to the repo - https://github.com/sandiegohearts/sandiegohearts.github.io
+Link to the site - https://sandiegohearts.github.io/
+
 ### Contributors
 | Name | email 
 | --- | --- 
