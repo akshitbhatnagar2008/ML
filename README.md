@@ -12,6 +12,14 @@ Hope I can contribute to the community!!!
 | LDA/Multivariate Gaussian | Using MNIST Digits Dataset | [Handwritten Digit Recognition](https://github.com/akshitbhatnagar2008/ML/blob/master/Handwritten%20digit%20recognition1.ipynb)
 | Naive Bayes Classifier | Text Classification | [Text Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/MutinomialNB.pdf)
 
+I have also added some models which were implemented using sklearn library.
+
+| Algorithm | Description | Link 
+| --- | --- | --- 
+| Clustering | Using Animal Dataset | [Clustering Animals into subgroups](https://github.com/akshitbhatnagar2008/ML/blob/master/Clustering.ipynb)
+| Decision Tree Classifier | Classifying Wines | [Wine Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/Decision_Tree.ipynb)
+| Linear Discrimant Analysis | Leaf Classification | [Leaf Classification](https://github.com/akshitbhatnagar2008/ML/blob/master/Leaf_classification.ipynb)
+
 ### Contributors
 | Name | email 
 | --- | --- 
